@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8e8910219697b022030f",
+    "revision": "47f65c3c70fafde5796d",
     "url": "/personal-projects/static/css/main.244b3264.chunk.css"
   },
   {
-    "revision": "8e8910219697b022030f",
-    "url": "/personal-projects/static/js/main.8e891021.chunk.js"
+    "revision": "47f65c3c70fafde5796d",
+    "url": "/personal-projects/static/js/main.47f65c3c.chunk.js"
   },
   {
     "revision": "55141515be7a0ad08bfe",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/personal-projects/static/js/runtime~main.1bebb060.js"
   },
   {
-    "revision": "c55a4ccca312a4aa57ee27db48457b35",
-    "url": "/personal-projects/static/media/NickVasileiouCV.c55a4ccc.pdf"
+    "revision": "b1c7dce58f3a36e260e07e774837eda2",
+    "url": "/personal-projects/static/media/NickVasileiouCV.b1c7dce5.pdf"
   },
   {
     "revision": "431fea4eb8a5c955c4ae6ae41d97ce70",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/personal-projects/static/media/portofolio-asset1.98126c3f.png"
   },
   {
-    "revision": "4d821147d0a941c8486480b4020d5121",
+    "revision": "f8e1fedf4016ece8138bf1efdc0c7d13",
     "url": "/personal-projects/index.html"
   }
 ];
