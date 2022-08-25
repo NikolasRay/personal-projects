@@ -7,8 +7,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: "React Portofolio Website",
-    github: "https://github.com/NikolasRay/personal-projects/personal-website",
-    demo: "packetcodeofficial.github.io/personal-website",
+    github: "https://github.com/NikolasRay/personal-projects",
+    demo: "https://nikolasray.github.io/personal-projects/",
   },
 ];
 
