@@ -10,15 +10,8 @@ const contact = () => {
     e.preventDefault();
     e.target.reset();
 
-    emailjs
-      .sendForm(
-        "service_dcdmfrv",
-        "template_mok1wda",
-        form.current,
-        "Ht3fryUj5jtVFFw0c"
-      )
-      .then(
-        (result) => {
+    emailjs.sendForm('service_3belxkr', 'template_2s6bygm', form.current, 'Ht3fryUj5jtVFFw0c')
+    .then((result) => {
           console.log(result.text);
         },
         (error) => {
@@ -56,18 +49,18 @@ const contact = () => {
         <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
-            name="name"
+            name='name'
             placeholder="Your full Name"
             required
           />
-          <input type="email" name="email" placeholder="Your Email" required />
+          <input type="email" name='email' placeholder="Your Email" required />
           <textarea
-            name="message"
+            name='message'
             rows="7"
             placeholder="Your Message"
             required
           ></textarea>
-          <button type="submit" className="btn btn-primary">
+          <button type="submit"  className="btn btn-primary">
             {" "}
             Send Message
           </button>
