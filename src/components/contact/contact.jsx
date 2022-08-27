@@ -1,15 +1,15 @@
 import React from "react";
-import emailjs from "emailjs-com";
+
 import "./contact.css";
 import { AiOutlineMail } from "react-icons/ai";
 import { AiFillLinkedin } from "react-icons/ai";
 import { useRef } from "react";
+import emailjs from "@emailjs/browser";
 
 const contact = () => {
   const form = useRef();
   const sendEmail = (e) => {
     e.preventDefault();
-    e.target.reset();
 
     emailjs
       .sendForm(
@@ -21,9 +21,11 @@ const contact = () => {
       .then(
         (result) => {
           console.log(result.text);
+          e.target.reset();
         },
         (error) => {
           console.log(error.text);
+          e.target.reset();
         }
       );
   };
