@@ -13,7 +13,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "E-Commerce React Mock-Site",
+    title: "(WIP)E-Commerce React Mock-Site",
     github: "https://github.com/NikolasRay/portofolio-ecommerce",
     demo: "https://nikolasray.github.io/portofolio-ecommerce/",
   },
