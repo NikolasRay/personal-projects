@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3e627cb654d0ce36b625",
+    "revision": "69809b2deabcde297ff5",
     "url": "/personal-projects/static/css/main.92ab6272.chunk.css"
   },
   {
-    "revision": "3e627cb654d0ce36b625",
-    "url": "/personal-projects/static/js/main.3e627cb6.chunk.js"
+    "revision": "69809b2deabcde297ff5",
+    "url": "/personal-projects/static/js/main.69809b2d.chunk.js"
   },
   {
     "revision": "5565006486066b8d4433",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/personal-projects/static/js/runtime~main.1bebb060.js"
   },
   {
-    "revision": "b1c7dce58f3a36e260e07e774837eda2",
-    "url": "/personal-projects/static/media/NickVasileiouCV.b1c7dce5.pdf"
+    "revision": "6facb178466ef8356256be52e9eb3984",
+    "url": "/personal-projects/static/media/NickVasileiouCV.6facb178.pdf"
   },
   {
     "revision": "431fea4eb8a5c955c4ae6ae41d97ce70",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/personal-projects/static/media/portofolio-ecommerce.2808896e.png"
   },
   {
-    "revision": "4f859adaf88c7e086107b48dd3d1338a",
+    "revision": "9e9b21f00cd018c8bba9dab5fb0d99fb",
     "url": "/personal-projects/index.html"
   }
 ];
