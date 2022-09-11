@@ -15,7 +15,7 @@ const data = [
     image: IMG2,
     title: "E-Commerce React Mock-Site",
     github: "https://github.com/NikolasRay/portofolio-ecommerce",
-    demo: "https://nikolasray.github.io/",
+    demo: "https://nikolasray.github.io/portofolio-ecommerce/",
   },
 ];
 
