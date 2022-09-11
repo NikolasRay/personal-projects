@@ -1,7 +1,7 @@
 import React from "react";
 import "./portofolio.css";
 import IMG1 from "../../assets/portofolio-asset1.png";
-
+import IMG2 from "../../assets/portofolio-ecommerce.png";
 const data = [
   {
     id: 1,
@@ -9,6 +9,13 @@ const data = [
     title: "React Portofolio Website",
     github: "https://github.com/NikolasRay/personal-projects",
     demo: "https://nikolasray.github.io/personal-projects/",
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: "E-Commerce React Mock-Site",
+    github: "https://github.com/NikolasRay/portofolio-ecommerce",
+    demo: "https://nikolasray.github.io/",
   },
 ];
 
